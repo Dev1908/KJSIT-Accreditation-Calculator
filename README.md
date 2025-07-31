@@ -24,15 +24,4 @@ Database: MySQL (via config.php connection)
 
 Other Assets: SVG/PNG graphics for branding and UI
 
-KJSIT_Accreditation_Calculator/
-│
-├── homepage.html                # Landing page
-├── login.php                   # Login functionality
-├── logout.php                  # Logout script
-├── config.php                  # DB configuration
-├── 4.1FORM.php                 # Criteria 4.1 input
-├── 5.1_form.php                # Criteria 5.1 input
-├── criteria4.php, criteria5.2.php, ...  # Logic for other sub-criteria
-├── *.css                       # Custom stylesheets
-├── *.svg / *.png / *.jpg       # Visual assets
 
