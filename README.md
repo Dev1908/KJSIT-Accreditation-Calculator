@@ -1,5 +1,6 @@
 # KJSIT-Accreditation-Calculator
 🎯 Overview
+
 The KJSIT Accreditation Calculator is a web-based automation tool developed to streamline and digitize the computation of accreditation metrics—particularly NBA Criteria 4 and 5—for the K. J. Somaiya Institute of Technology. It helps faculty and administrators reduce manual effort and improve accuracy in reporting academic and administrative data.
 
 This tool was built using PHP, HTML/CSS, and connects to a MySQL backend (through config.php) to handle form data and dynamically compute evaluation scores.
